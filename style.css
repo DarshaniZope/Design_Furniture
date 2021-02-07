@@ -1,0 +1,257 @@
+
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+   
+}
+
+.logo{
+margin-top:15px;
+}
+.name{
+    margin-top:15px;
+    height:158px;
+    background-image: url(wood.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.name h1{
+    
+    text-align: center;
+    margin-top: 37px;
+    font-weight:bold ;
+    font-size: 60px;
+    font-family: 'Ubuntu', sans-serif;
+} 
+
+.menu{
+    border-radius: 10px;
+  background-color: black ;
+    border-radius: 0px;
+    text-align: center;
+    margin-top:9px;
+    height: 40px;
+  
+   
+}
+.menu a{
+    display:block;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 35px;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    color:white;
+    margin-top: 6px;
+}
+.menu a:hover{
+    color: grey;
+    box-shadow: darkgray;
+}
+.banner{
+    margin-top:4px;
+    border-style: solid;
+}
+.explore{
+    text-align: center;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    margin-top: 33px;
+    font-size: 21px;
+
+}
+.icons{
+    text-align: center;
+}
+.safety_poster{
+    text-align: center;
+    margin-top:10px;
+}
+.popular{
+    margin-top: 10px;
+    width: 100%;
+}
+.price{
+    text-align: center;
+    
+}
+.guide{
+    margin-top: 40px;
+ text-align: justify;
+
+}
+.online{
+    margin-top: 30px;
+    text-align: center;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-weight: bold;
+    font-size: 33px;
+}
+.guide h3{
+    text-align: center;
+    font-family: "Mr Eaves XL Modern", sans-serif;
+}
+.banner2{
+    margin-top:20px;
+    margin-bottom: 20px;
+}
+.onestop h3{
+    text-align: center;
+    margin-top: 30px;
+    font-weight: bold;
+    font-size: 35px;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+
+}
+
+.onestop p{
+    margin-top: 15px;
+    text-align: justify;
+
+}
+div.polaroid {
+    margin-top:20px;
+    width: 80%;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 25px;
+  }
+  
+div.container {
+    text-align: center;
+    padding: 10px 20px;
+  }
+.portfolio{
+    text-align: center;
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: 40px;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+  }
+
+.footer{
+     margin-top: 80px;
+    background-color:#D6DBDF;
+    height:170px;
+    text-align: center;
+}
+  
+.footer h2{
+    margin-top: 25px;
+}
+.footer a:link {
+    color:black;
+    text-decoration: none;
+}
+.footer a:visited {
+    color: black;
+}
+.footer a:hover {
+    color:grey;
+}
+.footer a:active{
+    color:red;
+}
+.connect_us{
+    margin-top: 10px;
+    text-align: center;
+    background-color:#D6DBDF;
+    height:100px;
+    margin-bottom: 10px;
+    
+}
+.connect_us h2{
+    padding-top: 20px;
+}
+.connect_us a{
+    color: black;
+}
+.connect_us a:hover {
+    color:grey;
+  }
+/* HOME PAGE CSS END */
+/* ABOUT CSS STYLESHEET START */
+.about{
+    margin-top:30px;
+    color:orangered;
+    text-align: left;
+    font-weight: bold;
+    font-size: 27px;
+}
+.content{
+    text-align: justify;
+    margin-bottom: 30px;
+}
+
+.heading{
+    text-align: left;
+    color:#34495E ;
+    font-size: 22px;
+    font-weight: bold;
+}
+/* ABOUT CSS STYLESHEET END */
+/* CONTACT CSS STYLESHETT STARTS */
+.cont{
+    margin-top:30px;
+    color:orangered;
+    text-align: left;
+    font-size: 27px;
+    font-weight: bold;
+}
+.type{
+    text-align: left;
+    color:#34495E ;
+    font-size: 22px;
+    font-weight: bold;
+}
+.content1{
+    text-align: justify;
+    margin-bottom: 30px;
+    
+}
+/*  CONTACT CSS STYLESHEET END*/
+ /* Undercontruction page css starts */
+.under{
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: 60px;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+/* Undercontruction page css ends */
+/* Product starts */
+.sofa{
+     margin-top: 20px;
+}
+.chair{
+    margin-top: 20px;
+}
+.many{
+    margin-top: 50px;
+    text-align: center;
+}
+
+.text{
+   
+    opacity:0;
+    
+}
+
+.pic:hover .text
+    {
+     text-align: center;
+    opacity:0.9;
+    color: blue;
+    font-size:20px;
+    font-weight:700;
+    font-family:"Times New Roman", Times, serif;
+      
+    }
+
+
+
+
+
+
+/* Product end*/
+
+
